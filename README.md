@@ -6,13 +6,14 @@ To write a lex program to implement lexical analyzer to recognize a few patterns
 
 ## ALGORITHM :
 
-### STEP-1 :	
-
+#### STEP-1 : 
 Start the program.
 
-### STEP-2 :
+#### STEP-2 :
 
 Lex program consists of three parts.
+
+
 
      a.	Declaration %%
 
@@ -20,13 +21,17 @@ Lex program consists of three parts.
 
      c.	Auxilary procedure.
 
-### STEP-3 :
+     
+
+#### STEP-3 :
 
 The declaration section includes declaration of variables, maintest, constants and regular definitions.
 
-### STEP-4 :	
+#### STEP-4 :	
 
 Translation rule of lex program are statements of the form
+
+
 
     a.	P1 {action}
 
@@ -38,15 +43,17 @@ Translation rule of lex program are statements of the form
 
     e.	Pn {action}
 
-### STEP-5 :
+    
+
+#### STEP-5 :
 
 Write a program in the vi editor and save it with .l extension.
 
-### STEP-6 :	
+#### STEP-6 :	
 
 Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 
-### STEP-7 :
+#### STEP-7 :
 
 Compile that file with C compiler and verify the output.
 
