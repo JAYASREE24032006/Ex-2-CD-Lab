@@ -8,7 +8,7 @@ To write a lex program to implement lexical analyzer to recognize a few patterns
 
 1 . Start the program.
 
-2 . Lex program consists of three parts.     
+2 . Lex program consists of three parts. ( Declaration , Translation rules , Auxilary procedure ).
 
 3 . The declaration section includes declaration of variables, maintest, constants and regular definitions.
 
