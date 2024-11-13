@@ -1,4 +1,4 @@
-# Ex-2 GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# EX2 - GENERATION OF LEXICAL TOKENS LEX/FLEX TOOL
 
 ## AIM :
 
@@ -79,4 +79,4 @@ int main()
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/ca09899c-105c-41b9-a4f2-fac86c643464)
 ## RESULT :
-The lexical analyzer is implemented using lex and the output is verified.
+The lex program to implement lexical analyzer to recognize a few patterns is implemented using lex and the output is verified Successfully.
